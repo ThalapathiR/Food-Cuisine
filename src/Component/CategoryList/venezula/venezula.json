@@ -1,0 +1,322 @@
+{
+    "Venezula_Cuisine": [
+      {
+        "id": 1,
+        "name": "Arepa",
+        "category": "Sandwich",
+        "rating": 4.2,
+        "iconic_place": "Las Arepas de Los Hermanos Moya (La Polvorosa)",
+        "description": "Arepa is a highly versatile cornbread made from ground corn dough or precooked corn flour. It is commonly consumed in Venezuela, Colombia, Panama, Puerto Rico, and the Dominican Republic. In Venezuela, arepa is eaten at any time of the day, throughout the whole country, and across all socio-economic groups.",
+        "ingredients": [
+          "Corn Dough",
+          "Precooked Corn Flour"
+        ],
+        "strImage": "./images/venezula/Arepa.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Pabellón Criollo",
+        "category": "Beef Dish",
+        "rating": 4.1,
+        "iconic_place": "La Guayaba Verde (Caracas)",
+        "description": "Pabellón criollo is a traditional Venezuelan dish consisting of black beans, white rice, and slices of steak cooked with tomatoes. The word pabellon means flag, referring to the colors of individual components, which are arranged to resemble the national flag.",
+        "ingredients": [
+          "Beef",
+          "Black Beans",
+          "Tomatoes",
+          "Garlic",
+          "Onion",
+          "Stock"
+        ],
+        "strImage": "./images/venezula/Pabellón criollo.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Sopa de Mondongo",
+        "category": "Offal Soup",
+        "rating": 3.7,
+        "iconic_place": "Various Regional Restaurants",
+        "description": "Sopa de mondongo is a hearty tripe and vegetable soup that includes beef or pork tripe, which is cooked with potatoes, cassava, corn, and cabbage.",
+        "ingredients": [
+          "Beef Tripe or Pork Tripe",
+          "Potatoes",
+          "Cassava",
+          "Corn",
+          "Cabbage"
+        ],
+        "strImage": "./images/venezula/Sopa de mondongo.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Tequeños",
+        "category": "Snack",
+        "rating": 4.3,
+        "iconic_place": "Dolcissimo (Maracaibo)",
+        "description": "Tequeños are a traditional Venezuelan snack consisting of fried wonton wrappers or empanada dough filled with cheese, often served with various dips.",
+        "ingredients": [
+          "Flour",
+          "Eggs",
+          "Butter",
+          "Cheese",
+          "Salt",
+          "Oil and Animal Fat"
+        ],
+        "strImage": "./images/venezula/Tequeños.jpg"
+      },
+      {
+        "id": 5,
+        "name": "Pan de Jamón",
+        "category": "Sweet Bread",
+        "rating": 4.1,
+        "iconic_place": "Caracas",
+        "description": "Pan de jamón is a Venezuelan bread stuffed with raisins, ham, and olives, especially popular during Christmas time.",
+        "ingredients": [
+          "Yeast",
+          "Flour",
+          "Butter",
+          "Eggs",
+          "Milk",
+          "Sugar",
+          "Raisins",
+          "Ham",
+          "Olives"
+        ],
+        "strImage": "./images/venezula/Pan de jamón.jpg"
+      },
+      {
+        "id": 6,
+        "name": "Hallaca",
+        "category": "Wrap",
+        "rating": 3.9,
+        "iconic_place": "Various Regional Restaurants",
+        "description": "Hallaca is a Venezuelan tamale made with corn flour dough filled with a stew of meat, wrapped in plantain leaves, and boiled. It is a traditional Christmas dish.",
+        "ingredients": [
+          "Corn Flour Dough",
+          "Stewed Meat",
+          "Plantain Leaves"
+        ],
+        "strImage": "./images/venezula/Hallaca.jpg"
+      },
+      {
+        "id": 7,
+        "name": "Casabe",
+        "category": "Flatbread",
+        "rating": 3.2,
+        "iconic_place": "Altamar (Caracas)",
+        "description": "Casabe is a traditional Venezuelan flatbread made from cassava flour, creating a crispy texture without any leavening agent.",
+        "ingredients": [
+          "Cassava Flour"
+        ],
+        "strImage": "./images/venezula/Casabe.jpg"
+      },
+      {
+        "id": 8,
+        "name": "Arepa Reina Pepiada",
+        "category": "Sandwich",
+        "rating": 4.3,
+        "iconic_place": "Gran Horizonte (Caracas)",
+        "description": "Arepa Reina Pepiada is a popular Venezuelan arepa filled with a combination of avocado, shredded chicken, lime, coriander, mayonnaise, and optional peas.",
+        "ingredients": [
+          "Avocado",
+          "Chicken",
+          "Lime",
+          "Coriander",
+          "Mayonnaise",
+          "Peas"
+        ],
+        "strImage": "./images/venezula/Arepa reina pepiada.jpg"
+      },
+      {
+        "id": 9,
+        "name": "Perico Venezolano",
+        "category": "Egg Dish",
+        "rating": 4.1,
+        "iconic_place": "Various Regional Restaurants",
+        "description": "Perico Venezolano is a scrambled egg dish made with onions, tomatoes, butter, and a blend of spices. It is a popular breakfast dish in both Venezuela and Colombia.",
+        "ingredients": [
+          "Eggs",
+          "Onions",
+          "Tomato",
+          "Butter",
+          "Coriander",
+          "Annatto Powder"
+        ],
+        "strImage": "./images/venezula/Perico Venezolano.jpg"
+      },
+      {
+        "id": 10,
+        "name": "Golfeados",
+        "category": "Sweet Pastry",
+        "rating": 4.4,
+        "iconic_place": "Artesano Cafeteria (Caracas)",
+        "description": "Golfeados are a Venezuelan version of cinnamon rolls, made with milk, yeast, sugar, flour, eggs, and butter, and flavored with cinnamon and star anise.",
+        "ingredients": [
+          "Milk",
+          "Yeast",
+          "Sugar",
+          "Flour",
+          "Eggs",
+          "Butter",
+          "Cinnamon",
+          "Star Anise",
+          "Grated Cheese"
+        ],
+        "strImage": "./images/venezula/Golfeados.jpg"
+      },
+      {
+        "id": 11,
+        "name": "Asado Negro",
+        "category": "Beef Dish",
+        "rating": 3.7,
+        "iconic_place": "Hajillo's (Caracas)",
+        "description": "Asado negro is a Venezuelan beef dish, made by slow-braising eye of round roast in red wine sauce until it attains a dark color.",
+        "ingredients": [
+          "Beef",
+          "Red Wine",
+          "White Wine Vinegar",
+          "Canola Oil",
+          "Butter",
+          "Garlic"
+        ],
+        "strImage": "./images/venezula/Asado negro.jpg"
+      },
+      {
+        "id": 12,
+        "name": "Majarete",
+        "category": "Pudding",
+        "rating": 4.0,
+        "iconic_place": "Various Regional Desserts",
+        "description": "Majarete is a creamy Venezuelan pudding made from corn and coconut milk, similar to a corn pudding.",
+        "ingredients": [
+          "Corn Flour",
+          "Coconut Milk",
+          "Sugar",
+          "Vanilla"
+        ],
+        "strImage": "./images/venezula/Majarete.jpg"
+      },
+      {
+        "id": 13,
+        "name": "Guasacaca",
+        "category": "Dip",
+        "rating": 4.4,
+        "iconic_place": "Various Regional Restaurants",
+        "description": "Guasacaca is a Venezuelan dip similar to guacamole, made with avocado, coriander, parsley, bell peppers, onions, garlic, salt, oil, and vinegar, usually served with grilled meats.",
+        "ingredients": [
+          "Avocado",
+          "Coriander",
+          "Parsley",
+          "Bell Pepper",
+          "Onion",
+          "Garlic"
+        ],
+        "strImage": "./images/venezula/Guasacaca.jpg"
+      },
+      {
+        "id": 14,
+        "name": "Cachapa",
+        "category": "Pancake",
+        "rating": 4.1,
+        "iconic_place": "Cachapera Doña Ines (Caracas)",
+        "description": "Cachapa is a sweet corn pancake traditionally served with mozzarella cheese, popular throughout Venezuela.",
+        "ingredients": [
+          "Corn",
+          "Cornmeal",
+          "Mozzarella",
+          "Costeño Cheese",
+          "Butter"
+        ],
+        "strImage": "./images/venezula/Cachapa.jpg"
+      },
+      {
+        "id": 15,
+        "name": "Caraotas Negras",
+        "category": "Side Dish",
+        "rating": 3.7,
+        "iconic_place": "Various Regional Restaurants",
+        "description": "Caraotas negras are black beans, often served as a side dish or included in the Venezuelan national dish, pabellón criollo.",
+        "ingredients": [
+          "Black Beans"
+        ],
+        "strImage": "./images/venezula/Caraotas negras.jpg"
+      },
+      {
+        "id": 16,
+        "name": "Arepa Andina",
+        "category": "Sandwich",
+        "rating": 3.9,
+        "iconic_place": "Mérida State",
+        "description": "Arepa Andina is a variety of arepa made with wheat flour, popular in the Andes region of Venezuela.",
+        "ingredients": [
+          "Wheat Flour",
+          "Cheese",
+          "Tomato"
+        ],
+        "strImage": "./images/venezula/Arepa andina.jpg"
+      },
+      {
+        "id": 17,
+        "name": "Mandoca",
+        "category": "Snack",
+        "rating": 3.5,
+        "iconic_place": "Zulia",
+        "description": "Mandoca is a deep-fried snack made from cornmeal, plantains, panela sugar, and queso fresco, originating from the Zulia region.",
+        "ingredients": [
+          "Cornmeal",
+          "Plantains",
+          "Panela Sugar",
+          "Queso Fresco"
+        ],
+        "strImage": "./images/venezula/Mandoca.jpg"
+      },
+      {
+        "id": 18,
+        "name": "Arepa Frita",
+        "category": "Sandwich",
+        "rating": 3.9,
+        "iconic_place": "Zulia",
+        "description": "Arepa frita is a deep-fried version of arepa, typically filled with cabbage, cheese, and various condiments like ketchup and mayonnaise.",
+        "ingredients": [
+          "Corn Flour",
+          "Cabbage",
+          "Cheese",
+          "Ketchup",
+          "Mayonnaise",
+          "Mustard"
+        ],
+        "strImage": "./images/venezula/Arepa frita.jpg"
+      },
+      {
+        "id": 19,
+        "name": "Buñuelos de Yuca",
+        "category": "Deep-fried Dessert",
+        "rating": "n/a",
+        "iconic_place": "Various Regional Desserts",
+        "description": "Buñuelos de yuca is a deep-fried dessert made from grated cassava, sugar, and eggs, often served as a holiday treat.",
+        "ingredients": [
+          "Cassava",
+          "Sugar",
+          "Eggs"
+        ],
+        "strImage": "./images/venezula/Buñuelos de yuca.jpg"
+      },
+      {
+        "id": 20,
+        "name": "Sopa de Cebollin",
+        "category": "Soup",
+        "rating": "n/a",
+        "iconic_place": "Various Regional Restaurants",
+        "description": "Sopa de cebollin is a Venezuelan soup made with chives, flour, butter, white wine, beef stock, and cream.",
+        "ingredients": [
+          "Chives",
+          "Flour",
+          "Butter",
+          "White Wine",
+          "Beef Stock",
+          "Cream"
+        ],
+        "strImage": "./images/venezula/Sopa de mondongo.jpg"
+      }
+    ]
+  }
+  

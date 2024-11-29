@@ -1,0 +1,316 @@
+{
+    "new_zealand_cuisines": [
+      {
+        "id": 1,
+        "name": "Pavlova",
+        "category": "Cake",
+        "rating": 4.1,
+        "iconic_place": "Cibo (Auckland)",
+        "description": "Delicate as the ballerina it was named after, Pavlova is the quintessential summer dessert. Whipped cream is typically dolloped on top of a snowy meringue, followed by a pop of color in the form of fruit, preferably the tart varieties which contrast the sweetness of the meringue.",
+        "ingredients": [
+          "Eggs",
+          "Sugar",
+          "Vanilla",
+          "Whipped Cream",
+          "Corn Flour",
+          "Peach"
+        ],
+        "strImage": "./images/newzeland/Pavlova.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Meat Pie",
+        "category": "Savory Pie",
+        "rating": 4.2,
+        "iconic_place": "Miles Better Pies (Te Anau)",
+        "description": "Australian and New Zealander meat pie is made with flaky pastry that is filled with gravy and minced meat. Numerous variations exist, with fillings such as onions, chicken, asparagus, mushrooms, cheese, crocodile meat, vegetables, or seafood.",
+        "ingredients": [
+          "Meat",
+          "Gravy",
+          "Pastry",
+          "Onions",
+          "Cheese",
+          "Mushrooms"
+        ],
+        "strImage": "./images/newzeland/Meat Pie.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Fish and Chips",
+        "category": "Saltwater Fish Dish",
+        "rating": 3.9,
+        "iconic_place": "Bobby's Fresh Fish Market (Tauranga)",
+        "description": "This dish is a New Zealander version of the classic English fish and chips, introduced before World War I by British settlers. It is traditionally served wrapped in newspaper and eaten on a Friday night as a takeaway treat.",
+        "ingredients": [
+          "Blue Warehou",
+          "Elephant Shark",
+          "Cod",
+          "Potatoes"
+        ],
+        "strImage": "./images/newzeland/New Zealand Fish and Chips.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Māori Boil-Up",
+        "category": "Meat Dish",
+        "rating": 3.8,
+        "iconic_place": "The Hangi Shop (Auckland)",
+        "description": "Boil-up is a unique Māori technique of preparing meat and vegetables by boiling them in a large pot filled with water. The meat can be pork, beef, chicken, goat, or lamb, and typical vegetables include watercress, potatoes, and carrots.",
+        "ingredients": [
+          "Pork",
+          "Beef",
+          "Chicken",
+          "Goat",
+          "Lamb",
+          "Watercress",
+          "Bacon"
+        ],
+        "strImage": "./images/newzeland/Māori Boil-Up.jpg"
+      },
+      {
+        "id": 5,
+        "name": "Bacon and Egg Pie",
+        "category": "Savory Pie",
+        "rating": 3.8,
+        "iconic_place": "Mairangi Bay Bakery (Auckland)",
+        "description": "Bacon and egg pie is a New Zealand favorite made from flaky pastry filled with egg yolks and salty bacon. It is a common picnic food and is often eaten cold with ketchup or other condiments.",
+        "ingredients": [
+          "Bacon",
+          "Eggs",
+          "Pastry",
+          "Ketchup"
+        ],
+        "strImage": "./images/newzeland/Bacon and Egg Pie.jpg"
+      },
+      {
+        "id": 6,
+        "name": "Anzac Biscuits",
+        "category": "Cookie",
+        "rating": 3.9,
+        "iconic_place": "n/a",
+        "description": "Anzac biscuits are sweet cookies made from flour, oats, golden syrup, butter, sugar, coconut, and baking soda. Both Australia and New Zealand claim to have invented these cookies, with the first recipe appearing in 1915.",
+        "ingredients": [
+          "Wheat Flour",
+          "Oats",
+          "Brown Sugar",
+          "Coconut",
+          "Butter",
+          "Baking Soda"
+        ],
+        "strImage": "./images/newzeland/Anzac Biscuits.jpg"
+      },
+      {
+        "id": 7,
+        "name": "Hokey Pokey Ice Cream",
+        "category": "Ice Cream",
+        "rating": 4.2,
+        "iconic_place": "Giapo (Auckland)",
+        "description": "Hokey Pokey is a New Zealand ice cream consisting of vanilla-flavored ice cream with lumps of honeycomb toffee. It has become so popular that it is regularly exported to Japan, where it has gained a loyal following.",
+        "ingredients": [
+          "Vanilla Ice Cream",
+          "Honeycomb Toffee"
+        ],
+        "strImage": "./images/newzeland/Hokey Pokey Ice Cream.jpg"
+      },
+      {
+        "id": 8,
+        "name": "Sausage Sizzle",
+        "category": "Sausage",
+        "rating": 4.2,
+        "iconic_place": "n/a",
+        "description": "Sausage sizzle is a popular community event where sausages are grilled or barbecued, often as part of fundraisers. It is common at public gatherings or charity events and is typically served with bread, onions, and condiments.",
+        "ingredients": [
+          "Sausage",
+          "Bread",
+          "Onions",
+          "Butter",
+          "Ketchup",
+          "Mustard",
+          "Cheese"
+        ],
+        "strImage": "./images/newzeland/Sausage Sizzle.jpg"
+      },
+      {
+        "id": 9,
+        "name": "Cheese Roll",
+        "category": "Snack",
+        "rating": 3.4,
+        "iconic_place": "Rata Dining (Queenstown)",
+        "description": "Cheese roll is a New Zealand snack made by rolling crustless white bread filled with cheese and onions, then grilling it and topping with butter.",
+        "ingredients": [
+          "Bread",
+          "Cheddar Cheese",
+          "Onions",
+          "Milk",
+          "Butter"
+        ],
+        "strImage": "./images/newzeland/Cheese Roll.jpg"
+      },
+      {
+        "id": 10,
+        "name": "Krispie",
+        "category": "Cookie",
+        "rating": "n/a",
+        "iconic_place": "n/a",
+        "description": "Krispie is a toasted biscuit made with wheat flour, sugar, and coconut. They have a crunchy texture and are often commercially produced by Griffin's Foods.",
+        "ingredients": [
+          "Wheat Flour",
+          "Sugar",
+          "Coconut"
+        ],
+        "strImage": "./images/newzeland/Krispie.jpg"
+      },
+      {
+        "id": 11,
+        "name": "Pikelets",
+        "category": "Pancake",
+        "rating": 4.0,
+        "iconic_place": "Joe's Garage Queenstown (Queenstown)",
+        "description": "Pikelets are small, thick pancakes popular in New Zealand and Australia, typically eaten for breakfast and served with butter or jam.",
+        "ingredients": [
+          "Eggs",
+          "Milk",
+          "Wheat Flour",
+          "Butter",
+          "Sugar"
+        ],
+        "strImage": "./images/newzeland/Pikelets.jpg"
+      },
+      {
+        "id": 12,
+        "name": "Whitebait Fritters",
+        "category": "Saltwater Fish Dish",
+        "rating": 3.6,
+        "iconic_place": "Curly Tree Whitebait (Haast)",
+        "description": "Whitebait fritters are a delicacy made by frying tiny whitebait fish in a batter made from eggs and flour, seasoned with salt and pepper.",
+        "ingredients": [
+          "Whitebait Fish",
+          "Eggs",
+          "Flour",
+          "Salt",
+          "Pepper"
+        ],
+        "strImage": "./images/newzeland/Whitebait Fritters.jpg"
+      },
+      {
+        "id": 13,
+        "name": "Jaffas",
+        "category": "Dessert",
+        "rating": "n/a",
+        "iconic_place": "n/a",
+        "description": "Jaffas are small, round chocolate balls covered in a red-orange flavor coating. They were first produced in 1931 and are named after the Jaffa orange.",
+        "ingredients": [
+          "Chocolate",
+          "Orange Flavor"
+        ],
+        "strImage": "./images/newzeland/Jaffas.jpg"
+      },
+      {
+        "id": 14,
+        "name": "Chocolate Fish",
+        "category": "Chocolate Dessert",
+        "rating": "n/a",
+        "iconic_place": "n/a",
+        "description": "Chocolate fish is a New Zealand confectionery consisting of marshmallow shaped like fish, covered in chocolate. It has been a favorite treat for children in New Zealand.",
+        "ingredients": [
+          "Chocolate",
+          "Marshmallow"
+        ],
+        "strImage": "./images/newzeland/Chocolate Fish.jpg"
+      },
+      {
+        "id": 15,
+        "name": "KiwiBurger",
+        "category": "Burger",
+        "rating": 3.8,
+        "iconic_place": "Fergburger (Queenstown)",
+        "description": "The Kiwiburger consists of a beef patty, fried egg, beetroot, grilled onions, and other ingredients such as tomato, lettuce, cheese, mustard, and ketchup.",
+        "ingredients": [
+          "Ground Beef",
+          "Burger Bun",
+          "Eggs",
+          "Beetroot",
+          "Tomato",
+          "Lettuce"
+        ],
+        "strImage": "./images/newzeland/KiwiBurger.jpg"
+      },
+      {
+        "id": 16,
+        "name": "Mince and Cheese Pie",
+        "category": "Savory Pie",
+        "rating": 4.2,
+        "iconic_place": "Fergbaker (Queenstown)",
+        "description": "Mince and cheese pie is a traditional New Zealand meal consisting of a shortcrust pastry shell filled with cheese cubes and minced meat, typically made with ground beef, onions, garlic, carrots, mushrooms, and tomato paste.",
+        "ingredients": [
+          "Mince",
+          "Cheese",
+          "Beef",
+          "Onions",
+          "Garlic",
+          "Carrots",
+          "Mushrooms"
+        ],
+        "strImage": "./images/newzeland/Mince and Cheese Pie.jpg"
+      },
+      {
+        "id": 17,
+        "name": "Lolly Cake",
+        "category": "Cake",
+        "rating": 3.2,
+        "iconic_place": "Coffee Therapy (Christchurch)",
+        "description": "Lolly cake is a New Zealand dessert made from crushed malt biscuits, marshmallows, butter, and condensed milk. It is often topped with grated coconut and served sliced.",
+        "ingredients": [
+          "Malt Biscuits",
+          "Marshmallows",
+          "Butter",
+          "Condensed Milk",
+          "Coconut"
+        ],
+        "strImage": "./images/newzeland/Lolly Cake.jpg"
+      },
+      {
+        "id": 18,
+        "name": "Hāngi",
+        "category": "Technique",
+        "rating": 3.9,
+        "iconic_place": "Karaka Cafe (Wellington)",
+        "description": "Hāngi is a traditional Māori cooking technique where food is cooked in an underground oven. This technique involves placing food in a pit lined with heated stones and cooking it slowly.",
+        "ingredients": [
+          "Meat",
+          "Vegetables"
+        ],
+        "strImage": "./images/newzeland/Hāngi.jpg"
+      },
+      {
+        "id": 19,
+        "name": "Jelly Slice",
+        "category": "Dessert",
+        "rating": "n/a",
+        "iconic_place": "n/a",
+        "description": "Jelly slice is a colorful dessert made with a cookie base, creamy custard, and a layer of jelly on top, often served in vibrant red colors.",
+        "ingredients": [
+          "Cookie Base",
+          "Custard",
+          "Jelly"
+        ],
+        "strImage": "./images/newzeland/Jelly Slice.jpg"
+      },
+      {
+        "id": 20,
+        "name": "Afghan Biscuit",
+        "category": "Cookie",
+        "rating": 3.7,
+        "iconic_place": "Fidel's Cafe (Wellington)",
+        "description": "Afghan biscuits are crispy cookies made from crushed cornflakes, butter, cocoa, and sugar. They are typically shaped into flattened balls and baked until firm.",
+        "ingredients": [
+          "Cornflakes",
+          "Butter",
+          "Cocoa",
+          "Sugar"
+        ],
+        "strImage": "./images/newzeland/Afghan Biscuit.jpg"
+      }
+    ]
+  }
+  

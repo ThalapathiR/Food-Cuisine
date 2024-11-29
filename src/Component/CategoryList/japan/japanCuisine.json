@@ -1,0 +1,290 @@
+{
+    "dishes": [
+      {
+        "id": 1,
+        "name": "Sushi",
+        "category": "Rice Dish",
+        "rating": 4.6,
+        "iconic_place": "Ginza Kyubey (Chūō)",
+        "description": "Sushi is Japan's most famous culinary representative, typically made with rice and fillings which have been rolled inside a sheet of dry seaweed. The term sushi is an umbrella term covering a wide range of subvarieties.",
+        "ingredients": [
+          "Seafood",
+          "Nori",
+          "Shiitake",
+          "Surimi",
+          "Persian Cucumber",
+          "Scallions"
+        ],
+        "strImage": "./images/japan/Sushi.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Ramen",
+        "category": "Noodle Dish",
+        "rating": 4.6,
+        "iconic_place": "Ichiran Nakasu (Fukuoka)",
+        "description": "Ramen is a noodle soup that first appeared in Japan in 1910, combining Chinese noodles with a salty broth. The noodles are elastic and bright yellow, typically served with pork, chicken, seafood, or vegetables.",
+        "ingredients": [
+          "Ramen Noodles",
+          "Pork OR Chicken OR Seafood OR Root Vegetable OR Mushrooms"
+        ],
+        "strImage": "./images/japan/ramen.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Sashimi",
+        "category": "Fish Dish",
+        "rating": 4.4,
+        "iconic_place": "Sushi Yoshitake (Chūō)",
+        "description": "Sashimi is a Japanese delicacy of thinly sliced raw fish or shellfish served with soy sauce, wasabi, or ginger paste. Common ingredients include tuna, squid, scallop, whale, and octopus.",
+        "ingredients": [
+          "Scallops OR Whale OR Octopus OR Chicken OR Tuna OR Squid"
+        ],
+        "strImage": "./images/japan/Sashimi.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Yakitori",
+        "category": "Chicken Dish",
+        "rating": 4.3,
+        "iconic_place": "Toriki Main (Shinagawa)",
+        "description": "Yakitori refers to skewered grilled chicken, traditionally cooked over a charcoal fire. Different cuts of chicken are used, and it is often served with tare (soy-based sauce) or salt.",
+        "ingredients": [
+          "Chicken"
+        ],
+        "strImage": "./images/japan/Yakitori.jpg"
+      },
+      {
+        "id": 5,
+        "name": "Mochi",
+        "category": "Dessert",
+        "rating": 4.0,
+        "iconic_place": "Demachi Futaba (Kyoto)",
+        "description": "Mochi are tiny cakes made from glutinous rice, pounded until thick and homogenous. They are an essential part of Japanese cuisine, particularly during cultural events and festivals.",
+        "ingredients": [
+          "Glutinous Rice"
+        ],
+        "strImage": "./images/japan/Mochi.jpg"
+      },
+      {
+        "id": 6,
+        "name": "Onigiri",
+        "category": "Rice Dish",
+        "rating": 4.3,
+        "iconic_place": "Onigiri Bongo (Toshima)",
+        "description": "Onigiri are moist, chewy rice balls, often filled with umeboshi (pickled plum) or salmon. They have been a popular Japanese picnic food since the 11th century.",
+        "ingredients": [
+          "Uruchimai Rice",
+          "Nori",
+          "Umeboshi",
+          "Shiitake",
+          "Salmon",
+          "Kombu"
+        ],
+        "strImage": "./images/japan/Onigiri.jpg"
+      },
+      {
+        "id": 7,
+        "name": "Gyoza",
+        "category": "Dumplings",
+        "rating": 4.5,
+        "iconic_place": "Harajuku Gyoza-ro (Shibuya)",
+        "description": "Gyoza are crescent-shaped dumplings, originally from China. They are made with a thin wrapper filled with a mixture of pork, cabbage, chives, and seasoning.",
+        "ingredients": [
+          "Wheat Flour",
+          "Eggs",
+          "Pork OR Chicken",
+          "Cabbage",
+          "Chives"
+        ],
+        "strImage": "./images/japan/Gyoza.jpg"
+      },
+      {
+        "id": 8,
+        "name": "Wagashi",
+        "category": "Dessert",
+        "rating": 3.9,
+        "iconic_place": "Jimbocho Den (Shibuya)",
+        "description": "Wagashi are traditional Japanese sweets made from natural plant-based ingredients, often enjoyed with tea. They include a variety of fresh or half-dried confections.",
+        "ingredients": [
+          "Azuki Beans",
+          "Rice Flour"
+        ],
+        "strImage": "./images/japan/Wagashi.jpg"
+      },
+      {
+        "id": 9,
+        "name": "Shabu-shabu",
+        "category": "Meat Dish",
+        "rating": 4.3,
+        "iconic_place": "Hariju (Osaka)",
+        "description": "Shabu-shabu is a Japanese hot-pot dish where thinly sliced meat and vegetables are quickly cooked in boiling water. It is traditionally served with dipping sauces.",
+        "ingredients": [
+          "Lobster OR Beef OR Lamb OR Pork OR Chicken OR Duck"
+        ],
+        "strImage": "./images/japan/Shabu-shabu.jpg"
+      },
+      {
+        "id": 10,
+        "name": "Dashi",
+        "category": "Soup",
+        "rating": 4.1,
+        "iconic_place": "Nihonryori Ryugin (Minato)",
+        "description": "Dashi is a fundamental ingredient in Japanese cuisine, used as the base for miso soups, noodle soups, and various simmered dishes. It is typically made from kombu (seaweed) and bonito flakes.",
+        "ingredients": [
+          "Kombu",
+          "Bonito Flakes"
+        ],
+        "strImage": "./images/japan/Dashi.jpg"
+      },
+      {
+        "id": 11,
+        "name": "Tonkatsu",
+        "category": "Pork Dish",
+        "rating": 4.3,
+        "iconic_place": "Katsukura (Shibuya)",
+        "description": "Tonkatsu is a breaded, deep-fried pork cutlet. It is often served with shredded cabbage and a savory sauce, becoming a favorite comfort food in Japan.",
+        "ingredients": [
+          "Pork",
+          "Flour",
+          "Breadcrumbs",
+          "Eggs",
+          "Oil"
+        ],
+        "strImage": "./images/japan/Tonkatsu.jpg"
+      },
+      {
+        "id": 12,
+        "name": "Nigiri",
+        "category": "Rice Dish",
+        "rating": 4.5,
+        "iconic_place": "Sushi Dai (Chūō)",
+        "description": "Nigiri, or nigirizushi, is hand-pressed sushi where a slice of seafood is placed on a bed of vinegared rice. The topping may vary, but it often includes salmon, tuna, or eel.",
+        "ingredients": [
+          "Uruchimai Rice",
+          "Rice Vinegar",
+          "Scallops OR Eel OR Octopus OR Salmon"
+        ],
+        "strImage": "./images/japan/Nigiri.jpg"
+      },
+      {
+        "id": 13,
+        "name": "Miso Soup",
+        "category": "Soup",
+        "rating": 4.1,
+        "iconic_place": "Endo Sushi (Osaka)",
+        "description": "Miso soup is a traditional Japanese soup made with miso paste and dashi. It is commonly served with tofu, seaweed, and scallions, often as part of breakfast.",
+        "ingredients": [
+          "Dashi",
+          "Miso",
+          "Tofu",
+          "Scallions"
+        ],
+        "strImage": "./images/japan/Miso Soup.jpg"
+      },
+      {
+        "id": 14,
+        "name": "Teppanyaki",
+        "category": "Barbecue",
+        "rating": 4.4,
+        "iconic_place": "Hakushu Teppanyaki (Shibuya)",
+        "description": "Teppanyaki is a Japanese grilling technique where ingredients are cooked on a flat iron griddle. Commonly grilled items include beef, seafood, and vegetables.",
+        "ingredients": [
+          "Beef",
+          "Seafood",
+          "Vegetables"
+        ],
+        "strImage": "./images/japan/Teppanyaki.jpg"
+      },
+      {
+        "id": 15,
+        "name": "Karē",
+        "category": "Stew",
+        "rating": 4.5,
+        "iconic_place": "Garaku Soup Curry (Sapporo)",
+        "description": "Karē, or Japanese curry, is a savory stew-like dish often served with rice. It is influenced by British curry and includes meat, vegetables, and a thick sauce.",
+        "ingredients": [
+          "Meat",
+          "Vegetables",
+          "Curry Powder"
+        ],
+        "strImage": "/images/japan/Karē.jpg"
+      },
+      {
+        "id": 16,
+        "name": "Kushiyaki",
+        "category": "Barbecue",
+        "rating": 4.6,
+        "iconic_place": "Toriki Main (Shinagawa)",
+        "description": "Kushiyaki refers to skewered and grilled meats, seafood, and vegetables. The ingredients are often seasoned with salt or tare (soy sauce-based glaze).",
+        "ingredients": [
+          "Meat",
+          "Seafood",
+          "Vegetables"
+        ],
+        "strImage": "./images/japan/Kushiyaki.jpg"
+      },
+      {
+        "id": 17,
+        "name": "Yakisoba",
+        "category": "Stir-fry",
+        "rating": 4.2,
+        "iconic_place": "Yakisoba Mikasa (Chiyoda)",
+        "description": "Yakisoba is a stir-fried noodle dish typically made with pork, cabbage, and other vegetables. It is a common street food and comfort meal in Japan.",
+        "ingredients": [
+          "Noodles",
+          "Pork",
+          "Cabbage",
+          "Onion",
+          "Carrot"
+        ],
+        "strImage": "./images/japan/Yakisoba.jpg"
+      },
+      {
+        "id": 18,
+        "name": "Daifuku",
+        "category": "Dessert",
+        "rating": 4.1,
+        "iconic_place": "Demachi Futaba (Kyoto)",
+        "description": "Daifuku is a chewy, sweet Japanese dessert made with mochi and filled with red bean paste, chestnuts, or other fillings.",
+        "ingredients": [
+          "Mochi",
+          "Red Bean Paste",
+          "Chestnuts OR Apricot"
+        ],
+        "strImage": "./images/japan/Daifuku.jpg"
+      },
+      {
+        "id": 19,
+        "name": "Teriyaki",
+        "category": "Technique",
+        "rating": 4.3,
+        "description": "Teriyaki is a cooking technique where ingredients are marinated in a soy sauce-based mixture and then grilled or broiled, creating a glossy finish.",
+        "ingredients": [
+          "Chicken OR Pork OR Beef",
+          "Soy Sauce",
+          "Mirin",
+          "Sugar"
+        ],
+        "strImage": "./images/japan/Teriyaki.jpg"
+      },
+      {
+        "id": 20,
+        "name": "Sukiyaki",
+        "category": "Beef Dish",
+        "rating": 4.2,
+        "iconic_place": "Mishima-tei (Kyoto)",
+        "description": "Sukiyaki is a sweet and salty hot pot dish, typically made with beef, vegetables, and tofu. It is cooked at the table in a shallow iron pan.",
+        "ingredients": [
+          "Beef",
+          "Napa Cabbage",
+          "Udon Noodles",
+          "Mushrooms",
+          "Leek",
+          "Tofu"
+        ],
+        "strImage": "./images/japan/Sukiyaki.jpg"
+      }
+    ]
+  }
+  

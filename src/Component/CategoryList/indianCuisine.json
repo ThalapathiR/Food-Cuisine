@@ -1,0 +1,313 @@
+{
+  "indian_cuisines": [
+    {
+      "id": 1,
+      "name": "Roti",
+      "category": "Flatbread",
+      "rating": 4.3,
+      "iconic_place": "Bademiya (Mumbai)",
+      "description": "Roti is a flat and unleavened bread made with wholemeal flour. It is traditionally cooked on an iron griddle called tava, an important vessel in Indian cuisine. In Indian cuisine, roti is as essential as rice. There are several theories regarding its origin. One says that it was invented in India around 5000 years ago.",
+      "ingredients": [
+        "Wheat Flour",
+        "Oil and Animal Fat",
+        "Ghee"
+      ],
+      "strImage": "./images/roti.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Naan",
+      "category": "Flatbread",
+      "rating": 4.5,
+      "iconic_place": "Kake Di Hatti (New Delhi)",
+      "description": "Naan is a unique and popular flatbread with a chewy texture that has its roots in India. The first documented traces of naan are found in the 1300 AD notes of Amir Kushrau, an Indo-Persian poet. Its name comes from the Persian word for bread. Naan was originally made in two versions at the Imperial kitchens in Delhi.",
+      "ingredients": [
+        "Maida Flour",
+        "Yeast",
+        "Vegetable Oil",
+        "Salt",
+        "Sugar"
+      ],
+      "strImage": "./images/naan.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Chutney",
+      "category": "Relish",
+      "rating": 4.1,
+      "iconic_place": "Brahmin's Coffee Bar (Bangalore)",
+      "description": "Chutney is a flavorful accompaniment served with many Indian dishes. It is made from fruits, vegetables, and various spices, usually served fresh or pickled. Chutneys can be sweet, sour, or spicy, and are often paired with curries, parathas, or snacks like samosas.",
+      "ingredients": [
+        "Tamarind",
+        "Mint",
+        "Coriander",
+        "Chili",
+        "Onion"
+      ],
+      "strImage": "./images/chutney.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Biryani",
+      "category": "Rice Dish",
+      "rating": 4.3,
+      "iconic_place": "Hotel Shadab (Hyderabad)",
+      "description": "Biryani is a flavorful and aromatic rice dish that is rich in spices and often includes meat (chicken, goat, or mutton), eggs, or vegetables. It originated from the Mughal kitchens and has evolved into numerous regional varieties. Biryani is often cooked in layers and finished in a sealed pot for a fragrant, slow-cooked flavor.",
+      "ingredients": [
+        "Basmati Rice",
+        "Lamb or Chicken",
+        "Dried Fruit",
+        "Onion",
+        "Spices"
+      ],
+      "strImage": "./images/Biriyani.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Dal",
+      "category": "Stew",
+      "rating": 4.3,
+      "iconic_place": "South India",
+      "description": "Dal is a stew made from lentils, which are simmered with spices and served with rice or bread. It is a nutritious and common dish in Indian homes. Dal can be made with different lentils, including red, yellow, or green lentils.",
+      "ingredients": [
+        "Mung Beans",
+        "Lentils",
+        "Caraway",
+        "Coriander",
+        "Onion"
+      ],
+      "strImage": "./images/dal.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Butter Chicken (Murgh Makhani)",
+      "category": "Chicken Dish",
+      "rating": 4.5,
+      "iconic_place": "Gulati (New Delhi)",
+      "description": "Butter chicken (Murgh Makhani) is a popular Indian dish consisting of chicken cooked in a rich, creamy tomato-based sauce. It was created by accident at Moti Mahal restaurant in Delhi, where leftover tandoori chicken was cooked in a rich butter and cream sauce.",
+      "ingredients": [
+        "Chicken",
+        "Tomato",
+        "Butter",
+        "Red Chilli Powder",
+        "Garlic",
+        "Ginger"
+      ],
+      "strImage": "./images/Butter chicken (Murgh makhani).jpg"
+    },
+    {
+      "id": 7,
+      "name": "Korma",
+      "category": "Stew",
+      "rating": 4.4,
+      "iconic_place": "Ashok & Ashok (New Delhi)",
+      "description": "Korma is a creamy, mildly spiced meat stew made with saffron, yogurt, and various spices such as coriander, ginger, cumin, and turmeric. It originated in the royal kitchens of Mughal India and was served to the emperors and their guests.",
+      "ingredients": [
+        "Chicken",
+        "Saffron",
+        "Yogurt",
+        "Coriander",
+        "Turmeric",
+        "Ginger"
+      ],
+      "strImage": "./images/korma.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Tikka",
+      "category": "Chicken Dish",
+      "rating": 4.4,
+      "iconic_place": "Bademiya (Mumbai)",
+      "description": "Indian Tikka is a dish made of boneless chicken marinated in yogurt and spices, then grilled to perfection. It is often served with naan or rice and accompanied by chutneys and salads.",
+      "ingredients": [
+        "Paneer",
+        "Chicken",
+        "Yogurt",
+        "Garam Masala",
+        "Cumin",
+        "Coriander"
+      ],
+      "strImage": "./images/tikka.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Tandoori Chicken (Tandoori Murgh)",
+      "category": "Chicken Dish",
+      "rating": 4.4,
+      "iconic_place": "Blue Nile (Pune)",
+      "description": "Tandoori chicken is chicken that is marinated in a mixture of yogurt, spices, and herbs, then cooked in a tandoor (clay oven). It has a smoky flavor and crispy texture and is often served with naan or rice.",
+      "ingredients": [
+        "Chicken",
+        "Lime",
+        "Yogurt",
+        "Garam Masala",
+        "Garlic",
+        "Ginger"
+      ],
+      "strImage": "./images/Tandoori chicken (Tandoori murgh).jpg"
+    },
+    {
+      "id": 10,
+      "name": "Paratha",
+      "category": "Flatbread",
+      "rating": 4.4,
+      "iconic_place": "Amrik Sukhdev (Murthal)",
+      "description": "Paratha is a flaky, layered flatbread made with whole wheat flour and ghee. It is often stuffed with vegetables like potatoes, cauliflower, or paneer and served with yogurt or chutneys.",
+      "ingredients": [
+        "Whole Wheat Flour",
+        "Ghee",
+        "Salt"
+      ],
+      "strImage": "./images/paratha.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Chapati",
+      "category": "Flatbread",
+      "rating": 4.0,
+      "iconic_place": "Bhagat Tarachand (Mumbai)",
+      "description": "Chapati is a thin, unleavened flatbread made from whole wheat flour. It is a staple in many Indian homes and is often served with curries, dals, and vegetables.",
+      "ingredients": [
+        "Whole Wheat Flour",
+        "Salt",
+        "Olive Oil"
+      ],
+      "strImage": "./images/chapati.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Vindaloo",
+      "category": "Pork Dish",
+      "rating": 4.4,
+      "iconic_place": "Venite (Panaji)",
+      "description": "Vindaloo is a spicy and tangy curry made with pork (or other meats) and flavored with vinegar, garlic, and various spices. It originated in Goa and is one of the most beloved regional dishes in India.",
+      "ingredients": [
+        "Pork",
+        "Vinegar",
+        "Garlic",
+        "Spices"
+      ],
+      "strImage": "./images/vindaloo.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Dosa",
+      "category": "Pancake",
+      "rating": 4.3,
+      "iconic_place": "Central Tiffin Room (Bangalore)",
+      "description": "Dosa is a crispy, thin pancake made from fermented rice and black gram batter. It is a popular breakfast food in South India and is often served with chutneys and sambar.",
+      "ingredients": [
+        "Rice",
+        "Black Gram",
+        "Fenugreek"
+      ],
+      "strImage": "./images/dosa.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Chana Masala",
+      "category": "Vegetarian Dish",
+      "rating": 4.2,
+      "iconic_place": "Saravana Bhavan (Chennai)",
+      "description": "Chana Masala is a spicy curry made with chickpeas. It is a staple in Indian cuisine and is often served with rice or bread like roti or naan.",
+      "ingredients": [
+        "Chickpeas",
+        "Onion",
+        "Tomato",
+        "Ginger",
+        "Garlic"
+      ],
+      "strImage": "./images/Chana masala.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Aloo Gobi",
+      "category": "Vegetarian Dish",
+      "rating": 4.1,
+      "iconic_place": "Anand Restaurant (New Delhi)",
+      "description": "Aloo Gobi is a dry curry made from potatoes (aloo) and cauliflower (gobi). It is a vegetarian dish, full of flavor and spices, and commonly enjoyed with roti or rice.",
+      "ingredients": [
+        "Potatoes",
+        "Cauliflower",
+        "Turmeric",
+        "Garam Masala"
+      ],
+      "strImage": "./images/alogobi.jpg"
+    },
+    {
+      "id": 16,
+      "name": "Malai Kofta",
+      "category": "Vegetarian Dish",
+      "rating": 4.5,
+      "iconic_place": "Pind Balluchi (Delhi)",
+      "description": "Malai Kofta is a rich and creamy curry made with deep-fried balls of paneer (cheese) and vegetables. It is served in a luscious tomato-based gravy and is popular in North India.",
+      "ingredients": [
+        "Paneer",
+        "Potatoes",
+        "Tomato",
+        "Cream"
+      ],
+      "strImage": "./images/matkakulfi.jpg"
+    },
+    {
+      "id": 17,
+      "name": "Pani Puri",
+      "category": "Snack",
+      "rating": 4.6,
+      "iconic_place": "Haldiram's (Delhi)",
+      "description": "Pani Puri is a popular street food where crispy puris are filled with spicy tamarind water, mashed potatoes, and chickpeas. It's a favorite snack in many Indian cities.",
+      "ingredients": [
+        "Semolina",
+        "Tamarind",
+        "Chickpeas",
+        "Potato"
+      ],
+      "strImage": "./images/panipuri.jpg"
+    },
+    {
+      "id": 18,
+      "name": "Samosa",
+      "category": "Snack",
+      "rating": 4.2,
+      "iconic_place": "Jai Hind (Mumbai)",
+      "description": "Samosa is a popular fried pastry filled with spiced potatoes, peas, or meat. It is served as a snack or appetizer and is often paired with chutney.",
+      "ingredients": [
+        "Potatoes",
+        "Peas",
+        "Spices"
+      ],
+      "strImage": "./images/samosa.jpg"
+    },
+    {
+      "id": 19,
+      "name": "Gulab Jamun",
+      "category": "Dessert",
+      "rating": 4.8,
+      "iconic_place": "Bikanervala (Delhi)",
+      "description": "Gulab Jamun is a deep-fried, syrup-soaked dessert made from milk solids. It is often served at festivals, weddings, and other celebrations.",
+      "ingredients": [
+        "Milk Powder",
+        "Sugar",
+        "Ghee",
+        "Cardamom"
+      ],
+      "strImage": "./images/gulabjamun.jpg"
+    },
+    {
+      "id": 20,
+      "name": "Jalebi",
+      "category": "Dessert",
+      "rating": 4.7,
+      "iconic_place": "Chandni Chowk (Delhi)",
+      "description": "Jalebi is a crispy, deep-fried dessert soaked in sugary syrup. It is often served warm and is a favorite sweet treat in India.",
+      "ingredients": [
+        "Flour",
+        "Sugar",
+        "Saffron",
+        "Ghee"
+      ],
+      "strImage": "./images/jaelabi.jpg"
+    }
+
+  ]
+}

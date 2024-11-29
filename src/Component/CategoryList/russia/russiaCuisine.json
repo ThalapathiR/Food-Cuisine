@@ -1,0 +1,328 @@
+{"russia_Cuisine":[
+    {
+      "id": 1,
+      "name": "Pirog",
+      "category": "Savory Pie",
+      "rating": 4.3,
+      "iconic_place": "Stolle (Moscow)",
+      "description": "Pirog is a popular Russian pie made from yeast dough, shortcrust, or puff pastry that is filled with either sweet or savory ingredients. Some of the more popular fillings include meat, fish, mushrooms, cheese, cabbage, potatoes, and fruits such as plums, apples, or a variety of berries.",
+      "ingredients": [
+        "Flour",
+        "Yeast",
+        "Eggs",
+        "Butter",
+        "Meat",
+        "Fish",
+        "Cabbage",
+        "Mushrooms",
+        "Cheese"
+      ],
+      "strImage": "./images/russia/Pirog.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Zakuski",
+      "category": "Assorted Small Dishes",
+      "rating": 4.3,
+      "iconic_place": "Yolki-Palki (Moscow)",
+      "description": "Before every traditional Russian main meal, there are zakuski, a course of appetizers that are usually served to guests who are seated around the table, although a buffet arrangement is also quite common. These appetizers include herring, cheese, pickled vegetables, and meats.",
+      "ingredients": [
+        "Herring",
+        "Cheese",
+        "Pickled Vegetables",
+        "Beef",
+        "Pork",
+        "Caviar"
+      ],
+      "strImage": "./images/russia/Zakuski.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Kasha",
+      "category": "Porridge",
+      "rating": 3.5,
+      "iconic_place": "Grand Cafe Dr. Zhivago (Moscow)",
+      "description": "Kasha is a fundamental Russian dish made from various cereals such as rice, buckwheat, millet, or quinoa. It is often served with butter, meat, or vegetables as a main dish or side.",
+      "ingredients": [
+        "Rice",
+        "Buckwheat",
+        "Millet",
+        "Butter",
+        "Meat"
+      ],
+      "strImage": "./images/russia/Kasha.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Blini",
+      "category": "Pancake",
+      "rating": 4.4,
+      "iconic_place": "Café Pushkin (Moscow)",
+      "description": "Blini are traditional Russian pancakes made from flour, eggs, milk, and yeast. These pancakes are typically thin, golden, and served with various toppings such as sour cream, caviar, or jam.",
+      "ingredients": [
+        "Flour",
+        "Eggs",
+        "Milk",
+        "Yeast",
+        "Salt"
+      ],
+      "strImage": "./images/russia/Blini.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Pelmeni",
+      "category": "Dumplings",
+      "rating": 4.4,
+      "iconic_place": "Lepim i Varim (Moscow)",
+      "description": "Pelmeni are small, dumplings typically filled with meat, fish, or mushrooms, and served with sour cream or butter. They are a beloved comfort food in Russia, particularly in colder months.",
+      "ingredients": [
+        "Flour",
+        "Eggs",
+        "Beef",
+        "Pork",
+        "Onion",
+        "Mushrooms"
+      ],
+      "strImage": "./images/russia/Pelmeni.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Varenye",
+      "category": "Dessert",
+      "rating": 4.3,
+      "iconic_place": "Troyekurov (Yekaterinburg)",
+      "description": "Varenye is a traditional Russian dessert consisting of various fruits and berries cooked together with sugar. The ingredients should not lose their shape, dissolve, or overcook in order for varenye to be properly prepared.",
+      "ingredients": [
+        "Fruits",
+        "Berries",
+        "Sugar"
+      ],
+      "strImage": "./images/russia/Varenye.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Beef Stroganoff",
+      "category": "Beef Dish",
+      "rating": 4.2,
+      "iconic_place": "Café Pushkin (Moscow)",
+      "description": "Beef Stroganoff is a dish made out of lightly floured beef cubes that have been sautéed and cooked in a sauce made from stock, mustard, and sour cream.",
+      "ingredients": [
+        "Beef",
+        "Mustard",
+        "Sour Cream",
+        "Stock",
+        "Onion",
+        "Flour"
+      ],
+      "strImage": "./images/russia/Beef Stroganoff.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Medovik",
+      "category": "Cake",
+      "rating": 4.4,
+      "iconic_place": "Mari Vanna (Moscow)",
+      "description": "Medovik is a layered honey cake consisting of honey-infused sponges that are coated with thin layers of cream, often made with whipped cream or condensed milk.",
+      "ingredients": [
+        "Flour",
+        "Eggs",
+        "Sugar",
+        "Honey",
+        "Baking Powder",
+        "Sour Cream"
+      ],
+      "strImage": "./images/russia/Medovik.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Olivier Salad",
+      "category": "Salad",
+      "rating": 4.0,
+      "iconic_place": "Mari Vanna (Moscow)",
+      "description": "Olivier salad is a Russian salad made with diced potatoes, vegetables, eggs, and meats like chicken or ham, dressed in mayonnaise.",
+      "ingredients": [
+        "Potatoes",
+        "Mayonnaise",
+        "Peas",
+        "Eggs",
+        "Dill"
+      ],
+      "strImage": "./images/russia/Olivier Salad.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Shashlik",
+      "category": "Meat Dish",
+      "rating": 4.6,
+      "iconic_place": "Khachapuri (Moscow)",
+      "description": "Shashlik is a traditional barbecue consisting of marinated, skewered, and grilled chunks of meat such as lamb, beef, or pork.",
+      "ingredients": [
+        "Lamb",
+        "Beef",
+        "Pork",
+        "Bell Peppers",
+        "Onion"
+      ],
+      "strImage": "./images/russia/Shashlik.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Vinegret",
+      "category": "Salad",
+      "rating": 3.8,
+      "iconic_place": "Stolovaya No 57 (Moscow)",
+      "description": "Vinegret is a popular Russian salad consisting of boiled beets, potatoes, and carrots mixed with pickles, sauerkraut, and onions.",
+      "ingredients": [
+        "Vinegar",
+        "Sunflower Oil",
+        "Mustard",
+        "Sauerkraut",
+        "Onion",
+        "Carrot"
+      ],
+      "strImage": "./images/russia/Vinegret.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Golubtsy",
+      "category": "Ground Meat Dish",
+      "rating": 4.1,
+      "iconic_place": "Grand Cafe Dr. Zhivago (Moscow)",
+      "description": "Golubtsy are cabbage rolls stuffed with ground beef and either rice or buckwheat.",
+      "ingredients": [
+        "Cabbage",
+        "Beef",
+        "Pork",
+        "Buckwheat",
+        "Rice",
+        "Carrot"
+      ],
+      "strImage": "./images/russia/Golubtsy.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Pirozhki",
+      "category": "Savory Pastry",
+      "rating": 4.3,
+      "iconic_place": "Café Pushkin (Moscow)",
+      "description": "Pirozhki are small, oval-shaped buns made from yeast dough and stuffed with a variety of sweet or savory fillings.",
+      "ingredients": [
+        "Flour",
+        "Eggs",
+        "Meat",
+        "Mushrooms",
+        "Cheese"
+      ],
+      "strImage": "./images/russia/Pirozhki.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Shchi",
+      "category": "Soup",
+      "rating": 3.3,
+      "iconic_place": "Chekhov (Saint Petersburg)",
+      "description": "Shchi is a traditional Russian soup made with sour cabbage, meat, mushrooms, and seasonings.",
+      "ingredients": [
+        "Beef",
+        "Potatoes",
+        "Carrot",
+        "Onion",
+        "Sauerkraut"
+      ],
+      "strImage": "./images/russia/Shchi.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Sharlotka",
+      "category": "Cake",
+      "rating": 4.2,
+      "iconic_place": "Mari Vanna (Moscow)",
+      "description": "Sharlotka is a Russian apple cake that is fluffy and light with layers of sweet apples and a batter made with eggs and flour.",
+      "ingredients": [
+        "Flour",
+        "Eggs",
+        "Sugar",
+        "Apples",
+        "Baking Powder"
+      ],
+      "strImage": "./images/russia/Sharlotka.jpg"
+    },
+    {
+      "id": 16,
+      "name": "Solyanka",
+      "category": "Soup",
+      "rating": 4.3,
+      "iconic_place": "Café Pushkin (Moscow)",
+      "description": "Solyanka is a hearty, tangy soup made with meat, fish, pickles, olives, and cabbage.",
+      "ingredients": [
+        "Beef",
+        "Olives",
+        "Pickles",
+        "Cabbage",
+        "Mushrooms"
+      ],
+      "strImage": "./images/russia/Solyanka.jpg"
+    },
+    {
+      "id": 17,
+      "name": "Kholodets",
+      "category": "Meat Jelly",
+      "rating": 4.1,
+      "iconic_place": "Stolle (Moscow)",
+      "description": "Kholodets is a cold meat jelly dish, often made with pork or beef. It is a traditional Russian dish served as a cold appetizer.",
+      "ingredients": [
+        "Pork",
+        "Beef",
+        "Garlic",
+        "Carrot",
+        "Onion"
+      ],
+      "strImage": "./images/russia/Kholodets.jpg"
+    },
+    {
+      "id": 18,
+      "name": "Kurnik",
+      "category": "Poultry Pie",
+      "rating": 4.2,
+      "iconic_place": "Yelagin Island Restaurant (Saint Petersburg)",
+      "description": "Kurnik is a traditional Russian pie filled with chicken, rice, mushrooms, and eggs.",
+      "ingredients": [
+        "Chicken",
+        "Rice",
+        "Mushrooms",
+        "Eggs",
+        "Flour"
+      ],
+      "strImage": "./images/russia/Kurnik.jpg"
+    },
+    {
+      "id": 19,
+      "name": "Rassolnik",
+      "category": "Soup",
+      "rating": 4.1,
+      "iconic_place": "Stolovaya No 57 (Moscow)",
+      "description": "Rassolnik is a sour soup made from pickled cucumbers, barley, and pork or beef.",
+      "ingredients": [
+        "Pork",
+        "Pickles",
+        "Barley",
+        "Potatoes",
+        "Carrot"
+      ],
+      "strImage": "./images/russia/Rassolnik.jpg"
+    },
+    {
+      "id": 20,
+      "name": "Smetana",
+      "category": "Dairy",
+      "rating": 4.7,
+      "iconic_place": "Café Pushkin (Moscow)",
+      "description": "Smetana is a traditional Russian sour cream used as a condiment for many dishes like soups, pies, and pancakes.",
+      "ingredients": [
+        "Cream",
+        "Bacterial Culture"
+      ],
+      "strImage": "./images/russia/Pelmeni.jpg"
+    }
+  ]
+}

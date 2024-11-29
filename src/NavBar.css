@@ -1,0 +1,65 @@
+/* General navbar styles */
+.navBar-Content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    background-color: #ADD8E6;
+    z-index: 1000;
+    padding: 10px 20px;
+  }
+  
+  .navbar-li ul {
+    display: flex;
+  }
+  
+  .navbar-li ul li {
+    list-style: none;
+    margin-right: 20px;
+  }
+  
+  .me-auto {
+    font-family: "Protest Revolution", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .navHome {
+    margin-left: 50px;
+    color: white;
+  }
+  
+  /* Navbar link hover effect */
+  .navHome:hover {
+    color: #FFD700; /* Gold color on hover */
+  }
+  
+  /* Responsive styling for smaller screens */
+  @media (max-width: 992px) {
+    .navHome {
+      margin-left: 10px;
+    }
+    .navBar-Content {
+      padding: 10px;
+    }
+  }
+  
+  @media (max-width: 576px) {
+    .navBar-Content {
+      padding: 5px;
+    }
+  
+    .navHome {
+      font-size: 14px;
+      margin-left: 5px;
+    }
+  
+    /* Collapse the navbar links to align center when on mobile */
+    .navbar-collapse {
+      text-align: center;
+    }
+  }
+  

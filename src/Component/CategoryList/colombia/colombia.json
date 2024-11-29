@@ -1,0 +1,323 @@
+{
+    "dishes": [
+      {
+        "id": 1,
+        "name": "Arepa",
+        "category": "Sandwich type",
+        "rating": 4.2,
+        "iconic_place": "Quero Arepa (Cartagena)",
+        "description": "Arepa is a highly versatile cornbread made from ground corn dough or precooked corn flour. It is commonly consumed in Venezuela, Colombia, Panama, Puerto Rico, and the Dominican Republic. In Venezuela, arepa is eaten at any time of the day, throughout the whole country, and across all socio-economic classes.",
+        "ingredients": [
+          "Cornmeal"
+        ],
+        "strImage": "./images/colombia/Arepa.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Obleas",
+        "category": "Wafer",
+        "rating": 4.2,
+        "iconic_place": "Obleas Floridablanca (Floridablanca)",
+        "description": "Obleas are thin Colombian wafers characterized by their round shape and a slightly brown color. They’re customarily spread with arequipe caramel and other toppings such as fruit jams, grated cheese, or chocolate sprinkles. The shredded cheese is usually added for texture as it becomes slightly crunchy.",
+        "ingredients": [
+          "Wheat Flour",
+          "Milk",
+          "Sugar"
+        ],
+        "strImage": "./images/colombia/Obleas.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Lechona",
+        "category": "Pork Dish",
+        "rating": 4.8,
+        "iconic_place": "Restaurante Boquerón (Ibagué)",
+        "description": "Lechona is a traditional Colombian dish consisting of a whole roasted pig stuffed with onions, peas, rice, fresh herbs, and various spices. The pig is roasted for a long time until the meat is tender and succulent. The dish is usually prepared for celebrations and festivities.",
+        "ingredients": [
+          "Pork",
+          "Split Peas",
+          "Onion",
+          "Scallions",
+          "Garlic",
+          "Cumin"
+        ],
+        "strImage": "./images/colombia/lechona.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Bandeja paisa",
+        "category": "Meat Dish",
+        "rating": 4.2,
+        "iconic_place": "Restaurante Hatoviejo (Medellín)",
+        "description": "Bandeja paisa, also known as bandeja de arriero, bandeja montanera and bandeja antioquena, is Colombia's national dish. It is a heavy, caloric meal traditionally served on a big, oval platter and intended to be eaten for lunch. Originally, the platter provided nutrition and energy for those working in the fields.",
+        "ingredients": [
+          "Pinto Beans",
+          "Rice",
+          "Ground Beef",
+          "Pork",
+          "Chorizo",
+          "Eggs"
+        ],
+        "strImage": "./images/colombia/Bandeja paisa.jpg"
+      },
+      {
+        "id": 5,
+        "name": "Arroz con huevo",
+        "category": "Rice Dish",
+        "rating": 3.8,
+        "iconic_place": "",
+        "description": "Arroz con huevo is a popular lazy lunch throughout Latin America, consisting of rice that’s topped with a fried egg. This humble dish used to be called comida de pobre (poor people food), but today it is enjoyed by people of all socio-economic classes.",
+        "ingredients": [
+          "Eggs",
+          "Rice",
+          "Vegetable Oil",
+          "Salt"
+        ],
+        "strImage": "./images/colombia/Arroz con huevo.jpg"
+      },
+      {
+        "id": 6,
+        "name": "Arroz con coco",
+        "category": "Rice Dish",
+        "rating": 4.3,
+        "iconic_place": "La Cocina de Pepina (Cartagena)",
+        "description": "Both savory and sweet in flavor, arroz con coco is a flavorful Colombian side dish consisting of white rice, coconut milk, sugar, salt, and water. When mixed with raisins, arroz con coco becomes slightly sweeter, while the version without raisins is more savory and traditionally served with fish or meat.",
+        "ingredients": [
+          "Rice",
+          "Coconut",
+          "Coconut Milk",
+          "Sugar",
+          "Salt"
+        ],
+        "strImage": "./images/colombia/Coconut rice (Arroz con coco).jpg"
+      },
+      {
+        "id": 7,
+        "name": "Sancocho Colombiano",
+        "category": "Stew",
+        "rating": 4.2,
+        "iconic_place": "El Rancherito (Medellín)",
+        "description": "Sancocho is a hearty Colombian stew, traditionally made with chicken, beef, or pork. It includes potatoes, corn, plantains, and often cassava. It is a comforting dish served on Sundays or after festive gatherings.",
+        "ingredients": [
+          "Pork or Chicken or Beef",
+          "Potatoes",
+          "Cassava",
+          "Plantain"
+        ],
+        "strImage": "./images/colombia/Sancocho Colombiano.jpg"
+      },
+      {
+        "id": 8,
+        "name": "Calentado",
+        "category": "Breakfast",
+        "rating": 4.5,
+        "iconic_place": "Abasto (Bogotá)",
+        "description": "Calentado is a traditional Colombian breakfast consisting of last night's leftovers that are simply reheated. It typically includes rice, beans, plantains, steak, fried eggs, and sometimes chorizo.",
+        "ingredients": [
+          "Pork",
+          "Chorizo",
+          "Pinto Beans",
+          "Rice",
+          "Eggs"
+        ],
+        "strImage": "./images/colombia/Calentado.jpg"
+      },
+      {
+        "id": 9,
+        "name": "Perro caliente colombiano",
+        "category": "Hot Dog",
+        "rating": 4.1,
+        "iconic_place": "El Cebollero (Bogotá)",
+        "description": "The Colombian-style hot dog (Perro caliente colombiano) features a sausage that is steamed or boiled and topped with pineapple chunks, mayonnaise, ketchup, mustard, raspberries, bacon, and crushed potato chips.",
+        "ingredients": [
+          "Hot Dog Bun",
+          "Sausage",
+          "Pineapple",
+          "Mayonnaise",
+          "Ketchup",
+          "Mustard"
+        ],
+        "strImage":"./images/colombia/Colombian-style hot dog (Perro caliente colombiano).jpg"
+      },
+      {
+        "id": 10,
+        "name": "Ajiaco",
+        "category": "Chicken Soup",
+        "rating": 4.1,
+        "iconic_place": "La Puerta Falsa (Bogotá)",
+        "description": "Ajiaco is the national dish of Colombia, a flavorful chicken and potato soup. The soup features three different types of potatoes, and the addition of corn and herbs creates a distinct, comforting flavor.",
+        "ingredients": [
+          "Chicken",
+          "Papa criolla",
+          "Pastusa potatoes",
+          "Sabanera potatoes",
+          "Corn"
+        ],
+        "strImage": "./images/colombia/Ajiaco.jpg"
+      },
+      {
+        "id": 11,
+        "name": "Flan de coco",
+        "category": "Dessert",
+        "rating": 4.3,
+        "iconic_place": "",
+        "description": "Flan de coco is a delicate coconut flan dessert, popular in Colombia, Costa Rica, and the Caribbean. It is made with eggs, coconut milk, condensed milk, vanilla extract, and flaked coconut, with caramel on the inside.",
+        "ingredients": [
+          "Eggs",
+          "Coconut Flakes",
+          "Vanilla",
+          "Heavy Cream",
+          "Condensed Milk",
+          "Coconut Milk"
+        ],
+        "strImage": "./images/colombia/Flan de coco.jpg"
+      },
+      {
+        "id": 12,
+        "name": "Pan de queso",
+        "category": "Bread Roll",
+        "rating": 4.3,
+        "iconic_place": "Pastelería Florida (Bogotá)",
+        "description": "Pan de queso is a cheese bread from Colombia, particularly popular in the Paisa region. It is made with tapioca flour and grated cheese, which gives the bread its light and airy texture.",
+        "ingredients": [
+          "Cassava Flour",
+          "Queso fresco",
+          "Mozzarella",
+          "Eggs",
+          "Butter",
+          "Baking Powder"
+        ],
+        "strImage": "./images/colombia/Pan de queso.jpg"
+      },
+      {
+        "id": 13,
+        "name": "Pan de bono",
+        "category": "Bread Roll",
+        "rating": 4.7,
+        "iconic_place": "Panaderia y Pasteleria KUTY (Santiago de Cali)",
+        "description": "Pan de bono is a traditional Colombian bread roll, typically made with cassava starch, cornmeal, queso fresco, eggs, and sugar. It's often shaped into bagels or balls and is a popular breakfast food.",
+        "ingredients": [
+          "Cassava Starch",
+          "Costeño or Queso fresco",
+          "Eggs",
+          "Cornmeal or Corn Flour"
+        ],
+        "strImage": "./images/colombia/Pan de bono.jpg"
+      },
+      {
+        "id": 14,
+        "name": "Arepa de huevo",
+        "category": "Street Food",
+        "rating": 4.2,
+        "iconic_place": "Narcobollo Barranquilla (Barranquilla)",
+        "description": "Arepa de huevo is a street food where corn arepas are filled with eggs, then fried. It is a popular dish in Colombia, especially in the Caribbean region, often served for breakfast or as a snack.",
+        "ingredients": [
+          "Cornmeal",
+          "Eggs",
+          "Vegetable Oil",
+          "Salt"
+        ],
+        "strImage": "./images/colombia/Arepa de huevo.jpg"
+      },
+      {
+        "id": 15,
+        "name": "Picada Colombiana",
+        "category": "Meat Dish",
+        "rating": 4.3,
+        "iconic_place": "",
+        "description": "Picada Colombiana is a traditional dish featuring a variety of grilled or fried meats and vegetables, often served on a large platter for family gatherings and celebrations.",
+        "ingredients": [
+          "Pork",
+          "Chicken",
+          "Chorizo",
+          "Morcilla",
+          "Papa criolla",
+          "Potatoes"
+        ],
+        "strImage": "./images/colombia/Picada Colombiana.jpg"
+      },
+      {
+        "id": 16,
+        "name": "Arepa de queso",
+        "category": "Snack",
+        "rating": 4.2,
+        "iconic_place": "Quero Arepa (Cartagena)",
+        "description": "Arepa de queso is a Colombian variation of the classic arepa, where the dough is mixed with cheese and then served warm with more cheese, butter, or other fillings.",
+        "ingredients": [
+          "Cornmeal",
+          "Mozzarella or Queso fresco",
+          "Costeño",
+          "Butter",
+          "Sugar"
+        ],
+        "strImage": "./images/colombia/Arepa de huevo.jpg"
+      },
+      {
+        "id": 17,
+        "name": "Pan de yuca",
+        "category": "Bread Roll",
+        "rating": 4.3,
+        "iconic_place": "La Cesta Calle 81 (Bogotá)",
+        "description": "Pan de yuca is a small, round bread made from cassava flour, cheese, and eggs. It is a popular warm appetizer or snack in Colombia and Ecuador.",
+        "ingredients": [
+          "Cassava Flour",
+          "Mozzarella or Queso fresco",
+          "Eggs",
+          "Butter",
+          "Baking Powder"
+        ],
+        "strImage": "./images/colombia/Coconut rice (Arroz con coco).jpg"
+      },
+      {
+        "id": 18,
+        "name": "Hogao",
+        "category": "Sauce",
+        "rating": 4.6,
+        "iconic_place": "",
+        "description": "Hogao is a flavorful Colombian sauce made with tomatoes, scallions, coriander, garlic, cumin, and salt. It is typically used as a topping, dipping sauce, or seasoning for dishes.",
+        "ingredients": [
+          "Tomato",
+          "Scallions",
+          "Coriander",
+          "Garlic",
+          "Cumin",
+          "Salt"
+        ],
+        "strImage": "./images/colombia/Hogao.jpg"
+      },
+      {
+        "id": 19,
+        "name": "Bollo",
+        "category": "Bread",
+        "rating": 3.2,
+        "iconic_place": "Narcobollo 3 (Bogotá)",
+        "description": "Bollo is a traditional Colombian bun made from corn, yuca, or potatoes. It is often served with cheese, especially for breakfast.",
+        "ingredients": [
+          "Hominy",
+          "Queso fresco",
+          "Butter",
+          "Salt",
+          "Corn Husk"
+        ],
+        "strImage": "./images/colombia/Bollo.jpg"
+      },
+      {
+        "id": 20,
+        "name": "Pan trenza Colombiano",
+        "category": "Bread",
+        "rating": 4.0,
+        "iconic_place": "",
+        "description": "Pan trenza is a traditional Colombian braided bread made with flour, sugar, salt, yeast, oil, and eggs. It is sometimes enriched with guava, raisins, or cheese for extra flavor.",
+        "ingredients": [
+          "Wheat Flour",
+          "Yeast",
+          "Eggs",
+          "Vegetable Oil",
+          "Sugar",
+          "Salt"
+        ],
+        "strImage": "./images/colombia/Colombian braided bread.jpg"
+      }
+    ]
+  }
+  
